@@ -25,6 +25,7 @@ Usage
 --> When an alarm time is reached, the application will trigger a visual and audio notification.
 --> To delete an alarm, click the "Delete" button next to it.
 
+![image](https://github.com/bhavyasinghchauhan/alarmclock/assets/47421141/b38f8cb2-9888-4251-b270-ac7a655eff6e)
 
 Contact
 For any questions or inquiries, please contact 
